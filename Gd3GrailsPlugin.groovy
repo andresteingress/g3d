@@ -10,12 +10,11 @@ class Gd3GrailsPlugin {
         "grails-app/views/error.gsp"
     ]
 
-    // TODO Fill in these fields
-    def title = "Gd3 Plugin" // Headline display name of the plugin
-    def author = "Your name"
-    def authorEmail = ""
+    def title = "Gd3 Plugin"
+    def author = "Andre Steingress"
+    def authorEmail = "me@andresteingress.com"
     def description = '''\
-Brief summary/description of the plugin.
+G3D - A Grails DDD Extension
 '''
 
     // URL to the plugin's documentation
